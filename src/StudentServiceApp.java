@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//try test
 public class StudentServiceApp {
     public static void main(String[] args) {
         final double MIN_ATTENDANCE = 75.0;
